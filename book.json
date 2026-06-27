@@ -1,0 +1,11 @@
+{
+  "tool": "ai-image",
+  "name": "AI 作图",
+  "icon": "🎨",
+  "blurb": "U-King 内置 AI 作图，用 OpenAI 的 gpt-image-2，国内直连、不用 OpenAI 账号，文生图/改图/电商图都行",
+  "keywords": ["AI 作图 教程", "gpt-image-2 怎么用", "AI 文生图 国内", "OpenAI 作图 不用翻墙", "电商主图 AI 生成"],
+  "repo": "ai-image-handbook-zh",
+  "from": "ai-image",
+  "blue": { "file": "蓝皮书-入门.md", "title": "AI 作图 蓝皮书 · 开箱即用与出图配置" },
+  "red":  { "file": "红皮书-进阶.md", "title": "AI 作图 红皮书 · 出图技巧与变现" }
+}
